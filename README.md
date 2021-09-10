@@ -1,52 +1,48 @@
-# Teste prático de desenvolvimento:
-Desafio: Aplicativo web de vendas
+# Teste prático de engenharia de software
 
-# História de Usuário:
-<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_workitems/edit/1">https://dev.azure.com/johnny00joe/examples/_workitems/edit/1</a>
+Este é um projeto para fins de aprendizagem, que serve como estudo de caso, exercícios e testes relacionados à engenharia de software, e surgiu do seguinte desafio proposto: desenvolver um aplicativo web de vendas e criar um ambiente de desenvolvimento e produção para este aplicativo.
 
-# Tracking da história de usuário:
-https://dev.azure.com/johnny00joe/examples/_dashboards/dashboard/1e9485f3-b483-4160-992c-2bff968134b7
-<img src="./docs/azuredevops-appvendas.png">
+# Documentação do Projeto
 
-# Arquitetura da Solução:
-<img src="./docs/arquitetura-appvendas.png">
+<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/1">https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/1</a>
 
-# Ambiente de Desenvolvimento:
+# Status
 
-  ```
-  git clone https://github.com/johnny00joe/appvendas.git
-  ```
+<img width="75%" src="./docs/status.png" />
 
-  ```
-  mkdir -p database database/data && cd database
-  ```
+# Instalação
 
-  ```
-  git clone https://github.com/johnny00joe/appvendas-database.git
-  ```
+<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/1">https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/1</a>
 
-  ```
-  cd ../
-  ```
+<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/6/?anchor=instala%C3%A7%C3%A3o">https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/6/?anchor=instala%C3%A7%C3%A3o"</a>
 
-  ```
-  docker-compose up
-  ```
+# Repositórios
 
-  Front: http://localhost:3000
+ - Ambiente de Desenvolvimento: : https://github.com/johnny00joe/appvendas
+ 
+ - Front-end: https://github.com/johnny00joe/appvendas-frontend
+
+ - Back-end: https://github.com/johnny00joe/appvendas-backend
+
+ - Base de Dados: https://github.com/johnny00joe/appvendas-database
+
+
+# Últimas Releases
+
+- Front-end:
+
+  - **0.1:** https://github.com/johnny00joe/appvendas-frontend/releases/tag/v0.1
   
-  API: http://localhost:8080
+    Resolução parcial do desafio
 
-  BD: host="localhost"; port="3308"; user="appvendas"; password="1234"
+    - Ambiente de Desenvolvimento
+    - Ambiente de Produção
 
+- Back-end:
 
-# Repositórios relacionados:
+  - **0.1:** https://github.com/johnny00joe/appvendas-backend/releases/tag/v.01
 
-- https://github.com/johnny00joe/appvendas
-- https://github.com/johnny00joe/appvendas-backend
-- https://github.com/johnny00joe/appvendas-database
-- https://github.com/johnny00joe/appvendas-frontend
-
-
-
-
+    Resolução parcial do desafio
+  
+    - Ambiente de Desenvolvimento
+    - Ambiente de Produção
