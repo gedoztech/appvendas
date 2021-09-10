@@ -12,13 +12,11 @@ Este é um projeto para fins de aprendizagem, que serve como estudo de caso, exe
 
 # Instalação
 
-<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/1">https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/1</a>
-
-<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/6/?anchor=instala%C3%A7%C3%A3o">https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/6/?anchor=instala%C3%A7%C3%A3o"</a>
+<a target="_blank" href="https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/6/?anchor=instala%C3%A7%C3%A3o">https://dev.azure.com/johnny00joe/examples/_wiki/wikis/examples.wiki/6/?anchor=instala%C3%A7%C3%A3o</a>
 
 # Repositórios
 
- - Ambiente de Desenvolvimento: : https://github.com/johnny00joe/appvendas
+ - Ambiente de Desenvolvimento: https://github.com/johnny00joe/appvendas
  
  - Front-end: https://github.com/johnny00joe/appvendas-frontend
 
