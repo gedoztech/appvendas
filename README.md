@@ -4,7 +4,7 @@ Este é um projeto para fins de aprendizagem, que serve como estudo de caso, exe
 
 # Tecnologias
 
-PHP, Javascript, HTML, CSS, Ajax, Json, Lumen, ReactJS, Docker, Alpine, Nginx, GitHub Actions, AWS Cloud, Google Cloud Platform.
+PHP, Javascript, HTML, CSS, Ajax, Json, Lumen, ReactJS, MySQL, Docker, Alpine, Nginx, GitHub Actions, AWS Cloud, Google Cloud Platform.
 
 # Documentação do Projeto
 
